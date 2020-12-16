@@ -1,0 +1,8 @@
+.settings{
+    color: beige;
+}
+.name{
+    color: white;
+    font-size: 30px;
+    font-family: var(--main-name);
+}

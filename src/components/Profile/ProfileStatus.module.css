@@ -1,0 +1,11 @@
+
+.status {
+    font-size: 30px;
+    
+}
+
+.readyStatus {
+    color: yellow;
+    font-size: 25px;
+    padding: 10px;
+}

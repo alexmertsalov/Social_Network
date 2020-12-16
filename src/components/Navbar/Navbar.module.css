@@ -1,0 +1,26 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(255, 252, 56) ;
+    padding: 20px;
+    margin: 20px 20px 0 0;
+    box-shadow: -7px 5px 15px 1px beige;
+}
+
+.item a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.item{
+    margin: 10px;
+    font-family:  var( --main-text-font);
+    padding: 5px 30px 5px 30px;
+}
+
+a.active {
+    color:rgb(93, 41, 212);
+    border: 3px dotted rgb(93, 41, 212);
+    padding: 5px 30px 5px 30px;
+    background-color: rgba(255, 255, 255, 0.438);
+}

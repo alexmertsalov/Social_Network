@@ -1,0 +1,12 @@
+.addPost {
+    margin: 10px;
+   
+}
+.posts{
+    float: left;
+    width: 100%;
+}
+.allPosts{
+    margin-top: 40px;
+    text-align: center;
+}

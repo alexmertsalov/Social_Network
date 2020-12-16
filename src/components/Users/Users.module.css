@@ -1,0 +1,13 @@
+.userPage {
+    font-size: 50px;
+    font-family: 'Texturina', serif;
+    color: var(--main-bg-color);
+}
+
+.butGET {
+    font-size: 100px;
+}
+
+.preloader{
+    float: right;
+}

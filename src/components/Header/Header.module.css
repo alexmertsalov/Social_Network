@@ -1,0 +1,45 @@
+.logo {
+   width: 80px;
+   height: 80px;
+
+   box-shadow: 2px 3px 8px 1px beige;
+}
+.name{
+    font-size: 33px;
+    position: absolute;
+    margin-left: 430px;
+    margin-top: 10px;
+    font-family: 'Texturina', serif;
+    color:blueviolet ;
+}
+.header {
+    grid-area: h;
+    display: inline-block;
+    width: 1000px;
+    height: 80px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.loginPhrase {
+    float: right;
+}
+
+.userLogin{
+    font-family: var(--main-for-users);
+    font-size: 30px;
+    margin: 20px;
+    cursor: pointer;
+}
+.logIn{
+    box-sizing: border-box;
+    margin: 20px;
+    padding: 8px;
+   
+    
+}
+.logIn a{ 
+    color: azure;
+     text-decoration: none;
+    
+}
+

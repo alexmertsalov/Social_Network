@@ -1,0 +1,42 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+
+.dialogsItems {
+    padding: 10px;
+    text-align: center;
+}
+
+.dialogsItems .dialog {
+    border-bottom: 2px solid cyan;
+    padding: 5px;
+}
+
+.dialog a {
+    text-decoration: none;
+}
+
+
+.message {
+    border: 2px solid chartreuse;
+    margin: 7px;
+}
+
+.active {
+    background-color: gold;
+}
+
+.sendMessage{
+    text-align: center;
+}
+
+.sendMessage button{
+    padding: 5px 20px 5px 20px;
+    background-color: rgb(240, 255, 24);
+}
+.name{
+    font-family: var(--main-name);
+    color: white;
+    font-size: 30px;
+}

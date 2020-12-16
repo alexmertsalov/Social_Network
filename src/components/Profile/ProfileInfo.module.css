@@ -1,0 +1,23 @@
+.description {
+    margin: 30px 0 30px 0;
+}
+.socialNetworks{
+    cursor: pointer;
+    width: 50px;
+    margin: 10px;
+}
+.name{
+    font-family:  var( --main-name);
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgba(32, 150, 3, 0.363);
+}
+.avatar{
+    text-align: center;
+    
+}
+.social{
+   text-align: center;
+}
